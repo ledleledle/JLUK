@@ -7,3 +7,5 @@ Waktu pengerjaan : 3 hari
 Kontributor : Saya sendiri
 
 Kemungkinan update : memungkinkan
+
+Buat database bernama "jadwallab" lalu import db ke localhost
