@@ -1,6 +1,6 @@
 # jadwal_lab
 
-Ini adalah tugas web semester 5
+Ini adalah tugas mata kuliah "Web 2" semester 5 UNP Kediri
 
 Waktu pengerjaan : 3 hari
 
