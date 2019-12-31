@@ -1,4 +1,4 @@
-# jadwal_lab
+# JLUK (Jadwal Lab UNP Kediri)
 
 Ini adalah tugas mata kuliah "Web 2" semester 5 UNP Kediri
 
@@ -8,4 +8,6 @@ Kontributor : Saya sendiri
 
 Kemungkinan update : memungkinkan
 
-Buat database bernama "jadwallab" lalu import db ke localhost
+Buat database bernama <code>jadwallab</code> lalu import db ke localhost
+
+School Project Broooo...
